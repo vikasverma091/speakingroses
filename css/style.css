@@ -109,3 +109,6 @@ form{
 .navbar-default{
 	border-bottom-color:#000;
 }
+.navbar-brand{
+	height:36px !important;
+}
