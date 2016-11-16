@@ -106,3 +106,6 @@ form{
 .navbar{
 	min-height:36px !important;
 }
+.navbar-default{
+	border-bottom-color:#000;
+}
