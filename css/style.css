@@ -73,8 +73,9 @@ form{
 }
 .dashboard_header_logo h1{
 	font-family:Caviar_Dreams_Bold;
-	margin: 0;
+	padding-left:48px;
 	float:left;
+	margin-bottom:20px;
 }
 .dashboard_header_logo span{
 	float:right;
@@ -82,7 +83,7 @@ form{
 	background: #EDEDED;
 	padding: 7px 48px;
 	color: #000;
-	margin-right: 48px;
+	margin: 25px 48px 10px 0;
 }
 .dashboard_header_logo span a ul li a{
 	color:#000;
